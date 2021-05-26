@@ -5,4 +5,4 @@
 ```js
 let cont = "hello, world!";
 <h2> hello! 我是h2 </h2>
-<div>hello, 我是div </div>
+<div style="color: red;">hello, 我是div </div>
